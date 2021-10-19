@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "\"Cascadia Code\",\"Fira Code\",Hack,\"monospace\",\"Consolas\"",
+    "terminal.integrated.fontFamily": "Cascadia Code PL,FiraCode,Hack,Consolas, 'Courier New', monospacer",
+    "editor.fontWeight": 500,
+    "editor.fontSize": 13
+}
